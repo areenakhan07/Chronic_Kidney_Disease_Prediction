@@ -1,4 +1,4 @@
-# NephroPrognosys
+# NephroVision
 
 This project is dedicated to building machine learning models to predict the presence or absence of chronic kidney disease in patients. By leveraging diverse features and medical data, this project aims to develop precise classification models that can effectively identify kidney disease in individuals.
 
